@@ -1,5 +1,5 @@
 <?php
-  echo "prova"
-  echo "proves a git"
-  echo "més proves"
+  echo "prova<br />";
+  echo "proves a git";
+  echo "mes proves";
 ?>

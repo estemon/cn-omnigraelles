@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+	<meta charset="UTF-8">
 	<head>
 		<style>
 			p, h1 {text-align: center;
@@ -12,5 +13,7 @@
 		<?php
 			echo "a veure si funciona";
 		?>
+	<p>proves de <code>colors</code></p>
+	<p>perquè <code>no</code>?</p>
 	</body>
 </html>
