@@ -11,11 +11,15 @@ $newActMaxAge = $_POST['newActMaxAge'];
 ?>
 
   <body>
-<?php echo date('<p>H:i, F/j</p>');
-echo '<p>Title: '.$newActTitle.'</p>';
-echo '<p>Teacher: '.$newActTeacher.'</p>';
-echo '<p>Desciption: '.$newActDescription.'</p>';
-echo '<p>Min age: '.$newActMinAge.', opt: '.$newActOptAge.',max: '.$newActMaxAge.'</p>';
+<?php 
+
+echo date('<p>H:i, j/F</p>');
+echo '<h2>Your new activity details</h2>';
+echo '<p>Title: ' . $newActTitle . '</p>';
+echo '<p>Teacher: ' . $newActTeacher . '</p>';
+echo '<p>Description: ' . $newActDescription . '</p>';
+echo '<p>Min age: ' . $newActMinAge . ', opt: ' . $newActOptAge . ',max: ' . $newActMaxAge . '</p>';
+
 ?>
   </body>
 </html>
