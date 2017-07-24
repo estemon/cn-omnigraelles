@@ -1,6 +1,11 @@
 # omnigraelles
 General-purpose School DB: workshops, schedules, marks, grades, students information...
 
+0.0.2 - 2017-07-24
+  - common header (not css yet)
+  - common db
+  - initial php interactions
+
 0.0.1 - 2017-07-24
 	- starts git connection
 	- defining php as a possible platform
