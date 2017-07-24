@@ -1,6 +1,9 @@
 # omnigraelles
 General-purpose School DB: workshops, schedules, marks, grades, students information...
 
+0.0.3.1 - 2017-07-24
+  - form working
+
 0.0.3 - 2017-07-24
   - started "tests" folder
   - activites.php file
